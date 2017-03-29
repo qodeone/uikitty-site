@@ -65,7 +65,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/uikit/uikit/issues" target="_blank">
+                                <a href="https://github.com/qodeone/uikitty3/issues" target="_blank">
                                     <span class="uk-margin-small-right" uk-icon="icon: warning"></span>
                                     <span class="uk-text-middle">Report issue</span>
                                 </a>
@@ -77,7 +77,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a :href="'https://github.com/uikit/uikit-site/tree/develop/docs/pages/'+page+'.md'" target="_blank">
+                                <a :href="'https://github.com/qodeone/uikitty-site/tree/develop/docs/pages/'+page+'.md'" target="_blank">
                                     <span class="uk-margin-small-right" uk-icon="icon: pencil"></span>
                                     <span class="uk-text-middle">Edit this page</span>
                                 </a>

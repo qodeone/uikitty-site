@@ -4,7 +4,7 @@
 
 ## Style modifiers
 
-UIkit offers various text utilities to style your text.
+UIkitty offers various text utilities to style your text.
 
 | Class                 | Description                                                                                                           |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -107,7 +107,7 @@ Add one of these useful classes to align your text.
 
 ### Responsive
 
-UIkit provides a number of responsive alignment classes. Basically, they work just like the usual alignment classes, except that they have suffixes that represent the breakpoint from which they come to effect.
+UIkitty provides a number of responsive alignment classes. Basically, they work just like the usual alignment classes, except that they have suffixes that represent the breakpoint from which they come to effect.
 
 | Class                                                               | Description                                 |
 |---------------------------------------------------------------------|---------------------------------------------|

@@ -32,7 +32,7 @@ Add one of the `.uk-column-*` classes to an element to display its inline conten
 
 ## Responsive
 
-UIkit provides a number of responsive column classes. Basically they work just like the usual column classes, except that they have suffixes that represent the breakpoint from which they come to effect.
+UIkitty provides a number of responsive column classes. Basically they work just like the usual column classes, except that they have suffixes that represent the breakpoint from which they come to effect.
 
 | Class | Description |
 | --- | --- |

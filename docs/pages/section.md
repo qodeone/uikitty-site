@@ -230,7 +230,7 @@ You can add different paddings to each section or remove it altogether.
 
 ## Overlap modifier
 
-Some UIkit themes use richer styles, including textured backgrounds and borders. In this case, you can add the `.uk-section-overlap` class, to apply a border image and a negative offset to the following section. Note that this only works in styles that implement the feature, if there are subsequent sections.
+Some UIkitty themes use richer styles, including textured backgrounds and borders. In this case, you can add the `.uk-section-overlap` class, to apply a border image and a negative offset to the following section. Note that this only works in styles that implement the feature, if there are subsequent sections.
 
 ```html
 <div class="uk-section uk-section-overlap"></div>

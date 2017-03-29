@@ -335,15 +335,15 @@ The component comes with a number of prepared modal dialogs that you can use for
 
 | Code | Description |
 |------|--------------|
-| `UIkit.modal.alert('UIkit alert!')` | Show an alert box with one button. |
-| `UIkit.modal.confirm('UIkit confirm!')` | Show a confirm dialog with your message and two buttons. |
+| `UIkit.modal.alert('UIkitty alert!')` | Show an alert box with one button. |
+| `UIkit.modal.confirm('UIkitty confirm!')` | Show a confirm dialog with your message and two buttons. |
 | `UIkit.modal.prompt('Name:', 'Your name')` | Show a dialog asking for a text input. |
-| `UIkit.modal.dialog('<p>UIkit dialog!</p>');` | Show dialog with any HTML content. |
+| `UIkit.modal.dialog('<p>UIkitty dialog!</p>');` | Show dialog with any HTML content. |
 
 To process the user input, the modal uses a promise based interface which provides a `then()` function to register your callback functions.
 
 ```js
-UIkit.modal.confirm('UIkit confirm!').then(function() {
+UIkit.modal.confirm('UIkitty confirm!').then(function() {
     console.log('Confirmed.')
 }, function () {
     console.log('Rejected.')
@@ -367,13 +367,13 @@ UIkit.modal.confirm('UIkit confirm!').then(function() {
             $('#modal-dialog').on('click', function (e) {
                 e.preventDefault();
                 $(this).blur();
-                UIkit.modal.dialog('<p class="uk-modal-body">UIkit dialog!</p>');
+                UIkit.modal.dialog('<p class="uk-modal-body">UIkitty dialog!</p>');
             });
 
             $('#modal-alert').on('click', function (e) {
                 e.preventDefault();
                 $(this).blur();
-                UIkit.modal.alert('UIkit alert!').then(function() {
+                UIkit.modal.alert('UIkitty alert!').then(function() {
                     console.log('Alert closed.')
                 });
             });
@@ -381,7 +381,7 @@ UIkit.modal.confirm('UIkit confirm!').then(function() {
             $('#modal-confirm').on('click', function (e) {
                 e.preventDefault();
                 $(this).blur();
-                UIkit.modal.confirm('UIkit confirm!').then(function() {
+                UIkit.modal.confirm('UIkitty confirm!').then(function() {
                     console.log('Confirmed.')
                 }, function () {
                     console.log('Rejected.')

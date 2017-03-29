@@ -1,14 +1,14 @@
 # Right-to-left support
 
-<p class="uk-text-lead">UIkit supports right-to-left languages and allows you to switch the orientation of all design elements.</p>
+<p class="uk-text-lead">UIkitty supports right-to-left languages and allows you to switch the orientation of all design elements.</p>
 
-The RTL version switches the orientation of UIkit design elements, including properties such as floats, text-align, position coordinates, direction of background shadows and more. However, all classes that are explicitly named `*-left` or `*-right` stay the same in the RTL version.
+The RTL version switches the orientation of UIkitty design elements, including properties such as floats, text-align, position coordinates, direction of background shadows and more. However, all classes that are explicitly named `*-left` or `*-right` stay the same in the RTL version.
 
 ***
 
 ## Usage
 
-To use UIkit in RTL mode, use `uikit.rtl.min.css` which is included in the `dist/` folder. Make sure to add the `dir="rtl"` attribute to the `<html>` tag of your website. The JavaScript supports RTL by default, so you can include the regular JS files without changing anything.
+To use UIkitty in RTL mode, use `uikit.rtl.min.css` which is included in the `dist/` folder. Make sure to add the `dir="rtl"` attribute to the `<html>` tag of your website. The JavaScript supports RTL by default, so you can include the regular JS files without changing anything.
 
 ```html
 <!DOCTYPE html>
@@ -30,7 +30,7 @@ Take a look at the available components and just create markup as usual. There i
 
 ## Compile from source
 
-If you [setup UIkit from Github source](setup.md#compile-from-github-source), you can also compile the RTL version of UIkit yourself. This will include any [custom UIkit theme](less.md) you have created in the `custom/` directory.
+If you [setup UIkitty from Github source](setup.md#compile-from-github-source), you can also compile the RTL version of UIkitty yourself. This will include any [custom UIkitty theme](less.md) you have created in the `custom/` directory.
 
 ```sh
 npm install

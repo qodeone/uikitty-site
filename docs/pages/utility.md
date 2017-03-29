@@ -4,7 +4,7 @@
 
 ## Panel
 
-UIkit uses panels to outline certain sections of your content. These can be arranged in grid columns from the [Grid component](grid.md) component, for example.
+UIkitty uses panels to outline certain sections of your content. These can be arranged in grid columns from the [Grid component](grid.md) component, for example.
 
 Add the `.uk-panel` class to a `<div>` element to create a position context, set box-sizing to border-box, apply a clearfix and to remove the bottom margin of its last child element.
 
@@ -235,7 +235,7 @@ These classes are often used to create a position context on containers with an 
 
 ## Height
 
-UIkit provides a number of useful classes to alter a block element's height.
+UIkitty provides a number of useful classes to alter a block element's height.
 
 | Class                                             | Description                                                                                   |
 |---------------------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -370,7 +370,7 @@ The table below lists the available settings of the `uk-height-match` attribute.
 
 ## Responsive objects
 
-In UIkit `<img>`, `<canvas>`, `<audio>` and `<video>` elements adapt to the width of their parent container by default. To apply responsive behavior to iframes, add the `uk-responsive` attribute . For other elements or to apply a different behavior, just add one of the following classes.
+In UIkitty `<img>`, `<canvas>`, `<audio>` and `<video>` elements adapt to the width of their parent container by default. To apply responsive behavior to iframes, add the `uk-responsive` attribute . For other elements or to apply a different behavior, just add one of the following classes.
 
 | Class	| Description |
 | ----------------------- | ------------------------------------------------------------------------------------------------ |

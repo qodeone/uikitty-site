@@ -31,7 +31,7 @@ By default, a card is blank. That is why it is important to add a modifier class
 
 ## Style modifiers
 
-UIkit includes a number of modifiers that can be used to add a specific style to cards.
+UIkitty includes a number of modifiers that can be used to add a specific style to cards.
 
 | Class                | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|

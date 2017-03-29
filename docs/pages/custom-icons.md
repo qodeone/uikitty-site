@@ -8,14 +8,14 @@ UIkit's icon library contains a number of SVG icons bundled in a single JavaScri
 
 ## Add and overwrite icons
 
-Your can overwrite any of the default icons from UIkit and create additional ones. To prepare, please [setup UIkit from Github source](setup.md#compile-from-github-source). You can now add your own SVG icons and include them in UIkit's build process.
+Your can overwrite any of the default icons from UIkitty and create additional ones. To prepare, please [setup UIkitty from Github source](setup.md#compile-from-github-source). You can now add your own SVG icons and include them in UIkit's build process.
 
 The build process will check two places for additional icon files:
 
 1. The custom folder: `/custom/icons/*.svg`
 2. Any custom theme: `/custom/mytheme/icons/*.svg`
 
-Compile UIkit to include the additional icons:
+Compile UIkitty to include the additional icons:
 
 ```sh
 npm run compile
@@ -23,8 +23,8 @@ npm run compile
 
 Your additional icon will now be added to the icon library, in one of these two places:
 
-1. `dist/js/uikit-icons.js` if you have added the icon to UIkit globally
-2. `dist/js/uikit-icons-mytheme.js` if the icon is only inside a UIkit theme
+1. `dist/js/uikit-icons.js` if you have added the icon to UIkitty globally
+2. `dist/js/uikit-icons-mytheme.js` if the icon is only inside a UIkitty theme
 
 ***
 

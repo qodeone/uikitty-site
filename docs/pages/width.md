@@ -223,7 +223,7 @@ You can also combine `.uk-child-width-*` classes with `.uk-width-*` classes for 
 
 ## Responsive width
 
-UIkit provides a number of responsive widths classes. Basically they work just like the usual width classes, except that they have suffixes that represent the breakpoint from which they come to effect. These classes can be combined with the [Visibility component](visibility.md). This is great to adjust your layout and content for different device sizes.
+UIkitty provides a number of responsive widths classes. Basically they work just like the usual width classes, except that they have suffixes that represent the breakpoint from which they come to effect. These classes can be combined with the [Visibility component](visibility.md). This is great to adjust your layout and content for different device sizes.
 
 | Class                                   | Description                                                                             |
 |-----------------------------------------|-----------------------------------------------------------------------------------------|

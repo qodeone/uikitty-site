@@ -27,17 +27,17 @@ npm install --save-dev webpack
 As an entry file for the projects JavaScript, create a file `app/index.js` with the following content.
 
 ```js
-import UIkit from 'uikit';
+import UIkitty from 'uikit';
 import Icons from 'uikit/dist/js/uikit-icons';
 
 // loads the Icon plugin
 UIkit.use(Icons);
 
-// components can be called from the imported UIkit reference
+// components can be called from the imported UIkitty reference
 UIkit.notification('Hello world.');
 ```
 
-This way you have the reference to UIkit available without having to include its JavaScript files in your HTML. Instead, we can include the full bundle that will be created by Webpack. Create the main HTML file `index.html` with the following content.
+This way you have the reference to UIkitty available without having to include its JavaScript files in your HTML. Instead, we can include the full bundle that will be created by Webpack. Create the main HTML file `index.html` with the following content.
 
 ```html
 <!DOCTYPE html>
@@ -85,4 +85,4 @@ Now, run Webpack in your project's main directory.
 webpack # If you installed webpack globally
 ```
 
-This completes the basic setup of your project. Navigate to `index.html` in your browser and confirm that the basic UIkit styling is applied to your page. If the bundling was successful, a notification should pop up at the top of your page and the button should display a message on hover.
+This completes the basic setup of your project. Navigate to `index.html` in your browser and confirm that the basic UIkitty styling is applied to your page. If the bundling was successful, a notification should pop up at the top of your page and the button should display a message on hover.

@@ -10,17 +10,17 @@ Once you have [installed UIkit](installation.md), include the JavaScript files o
 
 ***
 
-## UIkit and reactive JavaScript frameworks
+## UIkitty and reactive JavaScript frameworks
 
-UIkit is listening for DOM manipulations and will automatically initialize, connect and disconnect components as they are inserted or removed from the DOM. That way it can easily be used with JavaScript frameworks like [Vue.js](http://vuejs.org/) and React.
+UIkitty is listening for DOM manipulations and will automatically initialize, connect and disconnect components as they are inserted or removed from the DOM. That way it can easily be used with JavaScript frameworks like [Vue.js](http://vuejs.org/) and React.
 
-**Note** The UIkit website and its documentation that you are currently looking at is built that way. It is a perfect example of how <em>UIkit and Vue.js</em> can be integrated. Head over to its [Github repo](https://github.com/uikit/uikit-site) to see what a good setup can look like.
+**Note** The UIkitty website and its documentation that you are currently looking at is built that way. It is a perfect example of how <em>UIkitty and Vue.js</em> can be integrated. Head over to its [Github repo](https://github.com/uikit/uikit-site) to see what a good setup can look like.
 
 ***
 
 ## Component usage
 
-You can use UIkit components by adding `uk-*` or `data-uk-*` attributes to your HTML elements without writing a single line of JavaScript. This is UIkit's best practice of using its components and should always be considered first.
+You can use UIkitty components by adding `uk-*` or `data-uk-*` attributes to your HTML elements without writing a single line of JavaScript. This is UIkit's best practice of using its components and should always be considered first.
 
 ```html
 <div uk-sticky="offset: 50;"></div>
@@ -141,7 +141,7 @@ The component's documentation page lists its events.
 
 Sometimes, components like Grid or Tab are hidden in the markup. This may happen when used in combination with the Switcher, Modal or Dropdown. Once they become visible, they need to adjust or fix their height and other dimensions.
 
-UIkit offers several ways of updating a component. Omitting the `event` parameter will trigger an `update` event.
+UIkitty offers several ways of updating a component. Omitting the `event` parameter will trigger an `update` event.
 
 ```js
 // Calls the update hook on all registered instances.

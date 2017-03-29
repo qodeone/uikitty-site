@@ -6,7 +6,7 @@
 
 The Base component utilizes styling of the famous [Normalize.css](http://necolas.github.io/normalize.css/) to render elements consistently across all browsers and applies its default styling like colors, margins, font-sizes and more.
 
-**Note** [Form](form.md), [Button](button.md) and [Table](table.md) elements are not normalized or styled by default. This happens in their specific component class. UIkit tries to apply as little styling as possible to plain HTML elements in order to remain robust and conflict free with 3rd party CSS.
+**Note** [Form](form.md), [Button](button.md) and [Table](table.md) elements are not normalized or styled by default. This happens in their specific component class. UIkitty tries to apply as little styling as possible to plain HTML elements in order to remain robust and conflict free with 3rd party CSS.
 
 ***
 

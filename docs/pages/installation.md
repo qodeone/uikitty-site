@@ -1,17 +1,17 @@
 # Installation
 
-<p class="uk-text-lead">Learn where to download and how to compile the UIkit sources.</p>
+<p class="uk-text-lead">Learn where to download and how to compile the UIkitty sources.</p>
 
 ## Download
 
 You have the following options to get UIkit:
 
 - Download the [latest release](https://github.com/uikit/uikit/releases/latest) with pre-built JavaScript and CSS.
-- Install with [Bower](https://bower.io) to get the pre-built JavaScript, CSS and the Less source files. This is recommended when using UIkit for a typical web project: ```bower install uikit#^3.0.0```
+- Install with [Bower](https://bower.io) to get the pre-built JavaScript, CSS and the Less source files. This is recommended when using UIkitty for a typical web project: ```bower install uikit#^3.0.0```
 - Clone the repo to get all source files including build scripts: `git clone git://github.com/uikit/uikit.git`
 - Install with [Npm](https://npmjs.com) to get all source files as they are available on Github: ```npm install uikit```
 
-The compiled files of all UIkit versions are also hosted on the Cloudflare content delivery network via [cdnjs.com](https://cdnjs.com/libraries/uikit).
+The compiled files of all UIkitty versions are also hosted on the Cloudflare content delivery network via [cdnjs.com](https://cdnjs.com/libraries/uikit).
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/[uikit-version]/css/uikit.min.css" />
@@ -35,7 +35,7 @@ The Github project contains all sources files which are compiled into the `dist`
 
 ## Compile from Github source
 
-To compile UIkit yourself, you can use the included build scripts.
+To compile UIkitty yourself, you can use the included build scripts.
 
 ```sh
 # Run once to install all dependencies
@@ -48,7 +48,7 @@ npm run compile
 npm run watch
 ```
 
-The compiled `dist` folder now contains additional files which are not checked in by default. The build task will create even more additional files if you have added a [custom UIkit theme](theme.md).
+The compiled `dist` folder now contains additional files which are not checked in by default. The build task will create even more additional files if you have added a [custom UIkitty theme](theme.md).
 
 ```html
 /dist/css
@@ -86,7 +86,7 @@ The compiled `dist` folder now contains additional files which are not checked i
 
 To use UIkit's CSS and JavaScript, [include the files](introduction.md#html-markup) in your own HTML and then create the markup of any of the components listed here in the docs.
 
-To compile UIkit automatically everytime you change the LESS or JavaScript, you can use the included build scripts.
+To compile UIkitty automatically everytime you change the LESS or JavaScript, you can use the included build scripts.
 
 ```sh
 npm run watch

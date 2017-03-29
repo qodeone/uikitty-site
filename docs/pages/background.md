@@ -4,7 +4,7 @@
 
 ## Usage
 
-To apply a background color to an element, add one of the following classes. The actual color for each modifier is defined by the UIkit style that you have chosen or customized.
+To apply a background color to an element, add one of the following classes. The actual color for each modifier is defined by the UIkitty style that you have chosen or customized.
 
 | Class                      | Description                                              |
 |----------------------------|----------------------------------------------------------|

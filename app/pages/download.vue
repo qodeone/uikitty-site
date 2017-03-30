@@ -49,7 +49,7 @@
 
             $.get("assets/uikit/package.json", {nocache: Math.random()}, data => {
                 setTimeout(() => {
-                    location.href = `https://github.com/qodeone/uikitty3/releases/download/v${data.version}/uikit-${data.version}.zip`;
+                    location.href = `https://github.com/qodeone/uikitty3/archive/8.x-3.4.zip`;
                 }, 100);
             }, 'json');
 

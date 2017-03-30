@@ -9,7 +9,7 @@
                 <div class="uk-container">
 
                     <p>
-                        <img :src="'./images/uikit-logo-large.svg'">
+                        <img :src="'./images/uikitty-logo-large.svg'">
                     </p>
 
                     <p class="uk-margin-medium uk-text-lead">
@@ -19,10 +19,10 @@
 
                     <div class="uk-child-width-auto uk-grid-medium uk-flex-inline uk-flex-center" uk-grid>
                         <div>
-                            <a class="uk-button uk-button-primary tm-button-primary" href="./docs">Get Started</a>
+                            <a class="uk-button uk-button-primary tm-button-primary" href="./docs">3.x Documentation</a>
                         </div>
                         <div>
-                            <a class="uk-button uk-button-default tm-button-default" href="https://github.com/uikit/uikit">Github</a>
+                            <a class="uk-button uk-button-default tm-button-default" href="https://github.com/qodeone/uikitty">Github</a>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@
                         <span>Version <span uikit-version></span></span>
                     </li>
                     <li>
-                        <a href="https://github.com/uikit/uikit/stargazers"><span class="uk-margin-small-right" uk-icon="icon: star"></span><span uikit-stargazers>8100</span> Stargazers</a>
+                        <a href="https://github.com/qodeone/uikitty3/stargazers"><span class="uk-margin-small-right" uk-icon="icon: star"></span><span uikit-stargazers>8100</span> Stargazers</a>
                     </li>
                     <li>
                         <a class="uk-text-lowercase" href="https://twitter.com/getuikit"><span class="uk-margin-small-right" uk-icon="icon: twitter"></span>@getuikit</a>
@@ -48,7 +48,7 @@
                     </li>
                 </ul>
 
-                <a class="uk-button uk-button-default tm-button-default uk-position-center-right uk-position-medium uk-visible@m" href="./v2">UIkit 2 <span uk-icon="icon: arrow-right"></span></a>
+                <a class="uk-button uk-button-default tm-button-default uk-position-center-right uk-position-medium uk-visible@m" href="./v2">UIkitty 2.x <span uk-icon="icon: arrow-right"></span></a>
 
             </div>
         </div>

@@ -22,7 +22,7 @@
                             <a class="uk-button uk-button-primary tm-button-primary" href="./docs">3.x Documentation</a>
                         </div>
                         <div>
-                            <a class="uk-button uk-button-default tm-button-default" href="https://github.com/qodeone/uikitty">Github</a>
+                            <a class="uk-button uk-button-default tm-button-default" href="https://github.com/qodeone/uikitty3">Github</a>
                         </div>
                     </div>
 

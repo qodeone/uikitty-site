@@ -13,8 +13,8 @@
                     </p>
 
                     <p class="uk-margin-medium uk-text-lead">
-                        A lightweight and modular front-end framework<br class="uk-visible@s">
-                        for developing fast and powerful web interfaces.
+                        A bridge between UIkit and Drupal 8. UIkitty is a lightweight and modular front-end framework<br class="uk-visible@s">
+                        for developing faster, more powerful web interfaces on Drupal 8.
                     </p>
 
                     <div class="uk-child-width-auto uk-grid-medium uk-flex-inline uk-flex-center" uk-grid>
@@ -23,6 +23,9 @@
                         </div>
                         <div>
                             <a class="uk-button uk-button-default tm-button-default" href="https://github.com/qodeone/uikitty3">Github</a>
+                        </div>
+                        <div>
+                            <a class="uk-button uk-button-default tm-button-default" href="https://drupal.org/uikitty3">Drupal.org</a>
                         </div>
                     </div>
 
@@ -35,16 +38,11 @@
 
                 <ul class="uk-subnav tm-subnav uk-flex-inline uk-flex-center uk-margin-remove-bottom" uk-margin>
                     <li>
-                        <span>Version <span uikit-version></span></span>
+                        Using the newest UIkit <span>Version <span uikit-version></span></span>
                     </li>
+
                     <li>
-                        <a href="https://github.com/qodeone/uikitty3/stargazers"><span class="uk-margin-small-right" uk-icon="icon: star"></span><span uikit-stargazers>8100</span> Stargazers</a>
-                    </li>
-                    <li>
-                        <a class="uk-text-lowercase" href="https://twitter.com/getuikit"><span class="uk-margin-small-right" uk-icon="icon: twitter"></span>@getuikit</a>
-                    </li>
-                    <li>
-                        <a href="https://gitter.im/uikit/uikit"><span class="uk-margin-small-right" uk-icon="icon: commenting"></span>Community</a>
+                        <a class="uk-text-lowercase" href="https://twitter.com/uikitty1"><span class="uk-margin-small-right" uk-icon="icon: twitter"></span>@uikitty1</a>
                     </li>
                 </ul>
 

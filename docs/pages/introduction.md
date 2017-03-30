@@ -1,16 +1,16 @@
 # Introduction
 
-<p class="uk-text-lead">Get familiar with the basic setup and overview of UIkit.</p>
+<p class="uk-text-lead">Get familiar with the basic setup and overview of UIkitty.</p>
 
-First of all you need to download UIkit. For other packages and links to a CDN, head to the [installation guide](installation.md) to learn more.
+UIkitty is UIkit for Drupal 8. To use UIkitty, you must either download and install Drupal 8 and then download and install UIkitty. For other packages and links to a CDN, head to the [installation guide](installation.md) to learn more.
 
-<a class="uk-button uk-button-primary" href="https://getuikit.com/download">Download UIkit</a>
+<a class="uk-button uk-button-primary" href="https://uikitty.com/3.x/download">Download UIkitty 3.x</a>
 
 ***
 
 ## Package contents
 
-The Zip file contains the compiled CSS and JavaScript files, which is everything you need to get started. Later, you might want to [install and compile UIkit](installation.md) yourself and also [create your own UIkitty theme](less.md).
+The Zip file contains the prestructured Drupal Theme files and working distribution of UIkit, which is everything you need to get started. Later, you might want to [install and compile UIkit](installation.md) yourself and also [create your own UIkitty theme](less.md).
 
 | Folder    | Description |
 | --------- | --- |

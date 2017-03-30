@@ -16,7 +16,7 @@
 
                     <ul class="uk-navbar-nav uk-visible@m">
                         <li><a href="./docs/introduction">Documentation</a></li>
-                        <li><a href="/">Uikitty 2.x</a></li>
+                        <li><a href="https://2x.uikitty.com">Uikitty 2.x</a></li>
                     </ul>
 
                     <div class="uk-navbar-item uk-visible@m">

@@ -25,7 +25,7 @@
                             <a class="uk-button uk-button-default tm-button-default" href="https://github.com/qodeone/uikitty3">Github</a>
                         </div>
                         <div>
-                            <a class="uk-button uk-button-default tm-button-default" href="https://drupal.org/uikitty3">Drupal.org</a>
+                            <a class="uk-button uk-button-default tm-button-default" href="https://drupal.org/project/uikitty3">Drupal.org</a>
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@
                     </li>
                 </ul>
 
-                <a class="uk-button uk-button-default tm-button-default uk-position-center-right uk-position-medium uk-visible@m" href="./v2">UIkitty 2.x <span uk-icon="icon: arrow-right"></span></a>
+                <a class="uk-button uk-button-default tm-button-default uk-position-center-right uk-position-medium uk-visible@m" href="https://2x.uikitty.com/">UIkitty 2.x <span uk-icon="icon: arrow-right"></span></a>
 
             </div>
         </div>

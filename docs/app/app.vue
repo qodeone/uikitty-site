@@ -18,7 +18,7 @@
 
                         <ul class="uk-navbar-nav uk-visible@m">
                             <li class="uk-active"><a href="../docs/">Documentation</a></li>
-                            <li><a href="../changelog">Changelog</a></li>
+                            <li><a href="https://2x.uikitty.com">Uikitty 2.x</a></li>
                         </ul>
 
                         <div class="uk-navbar-item uk-visible@m">
@@ -97,7 +97,6 @@
                     <ul class="uk-nav uk-nav-default tm-nav">
                         <li class="uk-nav-header">General</li>
                         <li><a href="../index">Home</a></li>
-                        <li><a href="../changelog">Changelog</a></li>
                         <li><a href="../download">Download</a></li>
                     </ul>
 

@@ -9,7 +9,7 @@
                     <div class="uk-navbar-left">
 
                         <a href="../" class="uk-navbar-item uk-logo">
-                            <img class="uk-margin-small-right" uk-svg :src="'../images/uikitty-logo.svg'"> UIkitty 3
+                            <img class="uk-margin-small-right" :src="'../images/uikitty-logo.svg'"> UIkitty 3
                         </a>
 
                     </div>

@@ -7,7 +7,7 @@
                 <div class="uk-navbar-left">
 
                     <router-link class="uk-navbar-item uk-logo" to="/">
-                        <img class="uk-margin-small-right" width="28" height="34" src="./images/uikitty-logo.svg" /> UIkitty 3.x
+                        <canvas class="uk-margin-small-right" width="43" height="51" :src="'./images/uikitty-logo.svg'"></canvas> UIkitty 3.x
                     </router-link>
 
                 </div>

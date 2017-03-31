@@ -13,7 +13,7 @@
                     </p>
 
                     <p class="uk-margin-medium uk-text-lead">
-                        A bridge between UIkit and Drupal 8. UIkitty is a lightweight and modular front-end framework<br class="uk-visible@s">
+                        A bridge between UIkit and Drupal 8. <br class="uk-visible@s">UIkitty is a lightweight and modular front-end framework
                         for developing faster, more powerful web interfaces on Drupal 8.
                     </p>
 

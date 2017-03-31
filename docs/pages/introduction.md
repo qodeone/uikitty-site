@@ -8,6 +8,10 @@ UIkitty is UIkit for Drupal 8. To use UIkitty, you must either download and inst
 
 ***
 
+## What is it for?
+
+The UIkitty3 theme for Drupal is a library theme or a "base theme" in Drupal terminology. It has very minimal styling and is intended to be used by professionals who are already familiar with UIkit. Once you have installed Drupal, you can then install UIkitty3 and subsequently your sub theme or an example sub theme that is built to use UIkitty3. The UIkitty3 base theme will enable all the functionality of UIkit and so leaves it up to the themer/developer to work with a common library of useful components in the way they see fit. 
+
 ## Package contents
 
 The Zip file contains the prestructured Drupal Theme files and working distribution of UIkit, which is everything you need to get started. Later, you might want to [install and compile UIkit](installation.md) yourself and also [create your own UIkitty theme](less.md).
